@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.js": "/Mau-MD/portfolio/static/js/main.4c20cd81.chunk.js",
+    "main.js.map": "/Mau-MD/portfolio/static/js/main.4c20cd81.chunk.js.map",
+    "runtime-main.js": "/Mau-MD/portfolio/static/js/runtime-main.08bf0770.js",
+    "runtime-main.js.map": "/Mau-MD/portfolio/static/js/runtime-main.08bf0770.js.map",
+    "static/css/2.11986d8b.chunk.css": "/Mau-MD/portfolio/static/css/2.11986d8b.chunk.css",
+    "static/js/2.634f5823.chunk.js": "/Mau-MD/portfolio/static/js/2.634f5823.chunk.js",
+    "static/js/2.634f5823.chunk.js.map": "/Mau-MD/portfolio/static/js/2.634f5823.chunk.js.map",
+    "index.html": "/Mau-MD/portfolio/index.html",
+    "static/css/2.11986d8b.chunk.css.map": "/Mau-MD/portfolio/static/css/2.11986d8b.chunk.css.map",
+    "static/js/2.634f5823.chunk.js.LICENSE.txt": "/Mau-MD/portfolio/static/js/2.634f5823.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/Mau-MD/portfolio/static/media/montserrat-vietnamese-400-normal.6325549b.woff2",
+    "static/media/slick-theme.css": "/Mau-MD/portfolio/static/media/slick.c94f7671.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.08bf0770.js",
+    "static/css/2.11986d8b.chunk.css",
+    "static/js/2.634f5823.chunk.js",
+    "static/js/main.4c20cd81.chunk.js"
+  ]
+}
